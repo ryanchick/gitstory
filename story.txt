@@ -1,3 +1,4 @@
 Once upon a time,
-It was the first day of WDI
-Rain was looming on the horizon
+It was the first day of WDI.
+Rain was looming on the horizon,
+But luckily we all had umbrellas.
